@@ -1,2 +1,2 @@
 # crypticwoodwhite
-The snakelike pipeline for SNP calling in cryptic wood white(L.juvernica)
+The snakemake pipeline for SNP calling in cryptic wood white(L.juvernica)
